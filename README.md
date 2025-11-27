@@ -5,6 +5,9 @@ Welcome to **Password Generator** — a handy tool to generate random passwords 
 ## 🚀 Project Overview
 The project lets users choose a password length and which character types should be included (lowercase, uppercase, numbers, symbols), and generates a random password accordingly.
 
+## 🌐 Live Demo
+[View Demo](https://issamsensi.github.io/password-generator/)
+
 ## 🌟 Features
 - Choose length and character types
 - Generates a random secure-ish password based on choices
